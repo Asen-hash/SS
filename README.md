@@ -1,3 +1,2 @@
-# SS
-TechRate
+# TechRate
 AUDIT COMPANY
